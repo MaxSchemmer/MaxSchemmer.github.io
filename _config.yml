@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://twitter.com/MaxSchemmer"
+  username               : "MaxSchemmer"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Max Schemmer"
   avatar           : "LAB_by_Sebastian.jpg"
-  bio              : "Physicist playing with cold atoms in Florence, Italy (CNR-INO). Previously at HU Berlin (DE), Institut d'Optique, Palaiseau (FR) & NIST, Gaithersburg (US) "
+  bio              : "Physicist playing with cold atoms in Florence, Italy (CNR-INO). <br> Previously at HU Berlin (DE), Institut d'Optique, Palaiseau (FR) & NIST, Gaithersburg (US) "
   location         : "Firenze, IT"
   employer         :
   pubmed           : 
