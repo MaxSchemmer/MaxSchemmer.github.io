@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Universität Freiburg (DE), 2012
-* M.S. in Science de la Matière, ENS de Lyon/Université Claude Bernard (FR), 2015
 * Ph.D in Quantum Phyiscs, Institut d'Optique/Paris-Saclay (FR), 2019
+* M.S. in Science de la Matière, ENS de Lyon/Université Claude Bernard (FR), 2015
+* B.S. in Physics, Universität Freiburg (DE), 2012
+
 
 Work experience
 ======
