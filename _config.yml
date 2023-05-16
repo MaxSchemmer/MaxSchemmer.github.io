@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Max Schemmer"
   avatar           : "LAB_by_Sebastian.jpg"
-  bio              : "Physicist playing with cold atoms in Florence (IT) @CNR-INO. <br>" Previously @HU Berlin (DE), @Institut d'Optique, Palaiseau (FR) & @NIST, Gaithersburg (US)"
+  bio              : "Physicist playing with cold atoms in Florence (IT) @CNR-INO. <br>"# Previously @HU Berlin (DE), @Institut d'Optique, Palaiseau (FR) & @NIST, Gaithersburg (US)"
   location         : "Firenze, IT"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
