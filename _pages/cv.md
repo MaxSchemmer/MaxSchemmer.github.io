@@ -20,16 +20,14 @@ Education
 * M.S. in Science de la Matière, ENS de Lyon/Université Claude Bernard (FR), 2015
 * B.S. in Physics, Universität Freiburg (DE), 2012
 
-
 Work experience
 ======
 * Project leader CNR-INO, Firenze (IT) 
   *P-wave superfluidity in ultracold Fermi mixture 
   *Experiment lead by Matteo Zaccanti
-
 * Lecturer & Marie-Sklodowska Curie fellow, Humboldt Universität  Berlin (DE)
- * Cold atoms coupled to evanescently coupled to nanofiber 
- * Group of Arno Rauschenbeutel
+  * Cold atoms coupled to evanescently coupled to nanofiber 
+  * Group of Arno Rauschenbeutel
    
 Teaching
 ======
