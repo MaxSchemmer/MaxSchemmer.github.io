@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maximilian Schemmer"
+title                    : "Max Schemmer"
 title_separator          : "-"
 name                     : &name "Dr. Maximilian Schemmer"
 description              : &description "researcher - physicist"
