@@ -15,13 +15,13 @@ Short CV
 ======
 
 Education
-======
+-----
 * Ph.D in Quantum Phyiscs, Institut d'Optique/Paris-Saclay (FR), 2019
 * M.S. in Science de la Matière, ENS de Lyon/Université Claude Bernard (FR), 2015
 * B.S. in Physics, Universität Freiburg (DE), 2012
 
 Work experience
-======
+-----
 * Project leader CNR-INO, Firenze (IT) 
   *P-wave superfluidity in ultracold Fermi mixture 
   *Experiment lead by Matteo Zaccanti
@@ -30,11 +30,11 @@ Work experience
   * Group of Arno Rauschenbeutel
    
 Teaching
-======
+-----
 *Teaching physics in French, German & English (graduate & underdraduate level)
 * Institutions: Humboldt University Berlin, Institut d'Optique, Universität Freiburg
   
 Selected Publications
-======
-
+-----
+...
 
