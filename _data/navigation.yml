@@ -1,11 +1,12 @@
 # main links links
 main:
     
-  - title: "Gallerie"
-    url: /gallerie/
 
   - title: "Research"
     url: /research/
+
+  - title: "Gallerie"
+    url: /gallerie/
 
   - title: "Publications"
     url: /publications/    

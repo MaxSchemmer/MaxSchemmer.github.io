@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](https://github.com/MaxSchemmer/MaxSchemmer.github.io/tree/master/files/CV_MaximilianSchemmer.pdf) to download full CV
+
 Short CV
 ======
-Click [here](https://github.com/MaxSchemmer/MaxSchemmer.github.io/tree/master/files/CV_MaximilianSchemmer.pdf) to download full CV
 
 Education
 ======
@@ -37,3 +38,5 @@ Teaching
   
 Selected Publications
 ======
+
+
