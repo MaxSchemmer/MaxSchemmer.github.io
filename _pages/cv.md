@@ -15,6 +15,7 @@ Click [here](https://github.com/MaxSchemmer/MaxSchemmer.github.io/tree/master/fi
 Short CV
 ======
 
+----
 Education
 ----
 * Ph.D in Quantum Phyiscs, Institut d'Optique/Paris-Saclay (FR), 2019
@@ -36,15 +37,8 @@ Teaching
   
 Selected Publications
 -----
-title: "Generalized Hydrodynamics on an Atom Chip"
-collection: publications
-permalink: /publication/2019-03-01-Generalized-Hydrodynamics-on-an-Atom-Chip
-excerpt: '*Featured in: Physics, Editors&apos; suggestion, Physics Today \&amp; Journal Club for Condensed Matter Physics*'
-date: 2019-03-01
-venue: 'Physical Review Letters'
-citation: ' M. *Schemmer*,  I. Bouchoule,  B. Doyon,  J. Dubail, &quot;Generalized Hydrodynamics on an Atom Chip.&quot; Physical Review Letters, 2019.'
----
-*Featured in: Physics, Editors&apos; suggestion, Physics Today \&amp; Journal Club for Condensed Matter Physics*
-
-Link: [Google Scholar](https://scholar.google.com/scholar?q=Generalized+Hydrodynamics+on+an+Atom+Chip){:target="_blank"}
+* Hinney, ... Schemmer, *Unraveling Two-Photon Entanglement via the Squeezing Spectrum of Light Traveling through Nanofiber-Coupled Atoms *, PRL 2021 [Physics Today](https://pubs.aip.org/physicstoday/article/72/5/22/926149/The-hydrodynamics-of-a-quantum-fluidThe-behavior) \& [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=4462)
+* Schemmer, et al., *Generalized Hydrodynamics on an Atom Chip*, PRL 2019
+  ** Featured in 
+* Schemmer, et al., *Cooling a Bose Gas by Three-Body Losses*, PRL 2018
 
