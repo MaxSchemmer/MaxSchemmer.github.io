@@ -11,9 +11,9 @@ Some (fun) photos from my professional journey
 
 A huge allen key that I found during my Master internship at NIST, Gaithersburg. They use it for the largest scale in the world.
 
- <img src="images/Large%20Allen%20key.jpeg" alt="Large allen key" style="width:50px;height:75px;"> 
+ <img src="images/Large%20Allen%20key.jpeg" alt="Large allen key" style="width:580;height:75px;"> 
 
-
+![allenkey](images/Large%20Allen%20key.jpeg){: .align-center}
 
 
 Maybe the *coolest* song in the world
