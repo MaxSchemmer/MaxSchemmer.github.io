@@ -11,8 +11,6 @@ redirect_from:
 
 Click [here](https://github.com/MaxSchemmer/MaxSchemmer.github.io/tree/master/files/CV_MaximilianSchemmer.pdf) to download full CV
 
-or here:
-[Download CV here](https://github.com/MaxSchemmer/MaxSchemmer.github.io/tree/master/files/CV_MaximilianSchemmer.pdf)
 
 Short CV
 ======
