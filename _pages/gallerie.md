@@ -10,7 +10,7 @@ Some (fun) photos from my professional journey
 -----
 
 A huge allen key that I found during my Master internship at NIST, Gaithersburg. They use it for the largest scale in the world.
-![a huge allen key|50](https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/878ab1442cb42c423b9ee22a7dca06780c705562/images/Large%20Allen%20key.jpeg?raw=true)
+![a huge allen key|20](https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/878ab1442cb42c423b9ee22a7dca06780c705562/images/Large%20Allen%20key.jpeg?raw=true)
 
 
 
