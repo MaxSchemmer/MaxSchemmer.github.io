@@ -20,7 +20,7 @@ Pitching my poster for the poster prize at Postdoc Berlin 2021
 ### Maybe the *coolest* song in the world
 [![Dancing-mot]({https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/878ab1442cb42c423b9ee22a7dca06780c705562/images/dancing_mot.jpg})]({https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/8617fbf537633cf2e8612bfd6363c5e1581f69b4/images/dancingMOT.mp4} "Dancing Cesium MOT")
 Christmas party 2020, Martin & me made the atoms dance to a controversial music taste
-<font size = "1"> The cool music cannot appear here due to copyright issues... </font size>
+<font size = "1"> The cool music cannot appear here due to copyright issues... </font>
 
 ### Moving the experiment from Vienna to Berlin
 [![Dancing-mot]({https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/878ab1442cb42c423b9ee22a7dca06780c705562/images/dancing_mot.jpg})]({https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/8617fbf537633cf2e8612bfd6363c5e1581f69b4/images/dancingMOT.mp4} "Dancing Cesium MOT")
