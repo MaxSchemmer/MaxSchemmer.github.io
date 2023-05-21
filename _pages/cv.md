@@ -14,8 +14,9 @@ Click [here](https://github.com/MaxSchemmer/MaxSchemmer.github.io/tree/master/fi
 
 Short CV
 ======
+
 Education
------
+----
 * Ph.D in Quantum Phyiscs, Institut d'Optique/Paris-Saclay (FR), 2019
 * M.S. in Science de la Matière, ENS de Lyon/Université Claude Bernard (FR), 2015
 * B.S. in Physics, Universität Freiburg (DE), 2012
