@@ -28,7 +28,7 @@ Arriving in the new empty lab in Berlin
 
 ### The atomchip lab in Palaiseau
 [![Dancing-mot]({https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/878ab1442cb42c423b9ee22a7dca06780c705562/images/dancing_mot.jpg})]({https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/8617fbf537633cf2e8612bfd6363c5e1581f69b4/images/dancingMOT.mp4} "Dancing Cesium MOT")
-Working ^ Credit: .. ^
+Working <font size = "3"> Credit: .. </font>
 
 ### When your colleague hands you over the wrong Allen key
 ![allenkey](https://github.com/MaxSchemmer/MaxSchemmer.github.io/blob/3de39c5d0e43f4bdfd2be90f204fe4beff34e8c5/images/Large%20Allen%20key_width300.png?raw=true){: .align-center}
