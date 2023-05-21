@@ -13,9 +13,7 @@ A huge allen key that I found during my Master internship at NIST, Gaithersburg.
 
  <img src="images/Large%20Allen%20key.jpeg" alt="Large allen key" style="width:50px;height:75px;"> 
 
-{% figure caption:"Le logo de **Jekyll** et son clin d'oeil à Robert Louis Stevenson" %}
-    ![Le logo de Jekyll](images/Large%20Allen%20key.jpeg)
-{% endfigure %}
+
 
 
 Maybe the *coolest* song in the world
