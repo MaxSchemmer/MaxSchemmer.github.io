@@ -12,7 +12,6 @@ redirect_from:
 Click [here](https://github.com/MaxSchemmer/MaxSchemmer.github.io/tree/master/files/CV_MaximilianSchemmer.pdf) to download full CV
 
 
-
 Short CV
 ======
 Education
@@ -25,6 +24,7 @@ Work experience
 -----
 * Project leader CNR-INO, Firenze (IT) 
   * P-wave superfluidity in ultracold Fermi mixture 
+
 
 * Lecturer & Marie-Sklodowska Curie fellow, Humboldt Universität  Berlin (DE)
   * Cold atoms coupled to evanescently coupled to nanofiber 
