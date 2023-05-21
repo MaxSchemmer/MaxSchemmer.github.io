@@ -5,7 +5,7 @@ permalink: /publication/2019-03-01-Generalized-Hydrodynamics-on-an-Atom-Chip
 excerpt: 'Featured in: Physics, Editors&apos; suggestion, Physics Today \&amp; Journal Club for Condensed Matter Physics'
 date: 2019-03-01
 venue: 'Physical Review Letters'
-citation: ' <strong>Max></strong> <strong>Schemmer</strong>,  Isabelle Bouchoule,  Benjamin Doyon,  Jérôme Dubail, &quot;Generalized Hydrodynamics on an Atom Chip.&quot; Physical Review Letters, 2019.'
+citation: ' <strong>Max</strong> <strong>Schemmer</strong>,  Isabelle Bouchoule,  Benjamin Doyon,  Jérôme Dubail, &quot;Generalized Hydrodynamics on an Atom Chip.&quot; Physical Review Letters, 2019.'
 ---
 Featured in: Physics, Editors&apos; suggestion, Physics Today \&amp; Journal Club for Condensed Matter Physics
 
