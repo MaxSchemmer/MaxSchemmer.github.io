@@ -38,7 +38,7 @@ Teaching
   
 Selected Publications
 -----
-* Hinney, ..., Schemmer, *Unraveling Two-Photon Entanglement via the Squeezing Spectrum of Light Traveling through Nanofiber-Coupled Atoms *, [PRL 2021](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.123602)
+* Hinney, ..., Schemmer, *Unraveling Two-Photon Entanglement via the Squeezing Spectrum of Light Traveling through Nanofiber-Coupled Atoms*, [PRL 2021](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.123602)
 * Schemmer, et al., *Generalized Hydrodynamics on an Atom Chip*, [PRL 2019](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.090601)
   * Featured in [Physics Today](https://pubs.aip.org/physicstoday/article/72/5/22/926149/The-hydrodynamics-of-a-quantum-fluidThe-behavior) & [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=4462)
 * Schemmer, et al., *Cooling a Bose Gas by Three-Body Losses*, [PRL 2018](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.200401)
