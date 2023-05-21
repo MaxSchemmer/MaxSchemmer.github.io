@@ -6,4 +6,4 @@ date: 2019, *Featured in: Physics, Editors' suggestion, Physics Today \& Journal
 venue: 'Physical Review Letters'
 citation: ' M. *Schemmer*,  I. Bouchoule,  B. Doyon,  J. Dubail, &quot;Generalized Hydrodynamics on an Atom Chip.&quot; Physical Review Letters, 2019, *Featured in: Physics, Editors&apos; suggestion, Physics Today \&amp; Journal Club for Condensed Matter Physics*.'
 ---
-[Google Scholar](https://scholar.google.com/scholar?q=Generalized+Hydrodynamics+on+an+Atom+Chip){:target="_blank"}
+Link: [Google Scholar](https://scholar.google.com/scholar?q=Generalized+Hydrodynamics+on+an+Atom+Chip){:target="_blank"}

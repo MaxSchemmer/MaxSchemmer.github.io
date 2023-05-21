@@ -6,4 +6,4 @@ date: 2022-12-01
 venue: 'arXiv-preprint'
 citation: ' Martin Cordier,  *Max* *Schemmer*,  Philipp Schneeweiss,  Jürgen Volz,  Arno Rauschenbeutel, &quot;Tailoring Photon Statistics with an Atom-Based Two-Photon Interferometer.&quot; arXiv-preprint, 2022.'
 ---
-[Google Scholar](https://scholar.google.com/scholar?q=Tailoring+Photon+Statistics+with+an+Atom+Based+Two+Photon+Interferometer){:target="_blank"}
+Link: [Google Scholar](https://scholar.google.com/scholar?q=Tailoring+Photon+Statistics+with+an+Atom+Based+Two+Photon+Interferometer){:target="_blank"}
