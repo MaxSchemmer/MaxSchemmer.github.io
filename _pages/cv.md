@@ -16,6 +16,7 @@ Short CV
 ======
 
 ----
+
 Education
 ----
 * Ph.D in Quantum Phyiscs, Institut d'Optique/Paris-Saclay (FR), 2019
@@ -37,8 +38,8 @@ Teaching
   
 Selected Publications
 -----
-* Hinney, ..., Schemmer, *Unraveling Two-Photon Entanglement via the Squeezing Spectrum of Light Traveling through Nanofiber-Coupled Atoms *, PRL 2021 [Physics Today](https://pubs.aip.org/physicstoday/article/72/5/22/926149/The-hydrodynamics-of-a-quantum-fluidThe-behavior) \& [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=4462)
+* Hinney, ..., Schemmer, *Unraveling Two-Photon Entanglement via the Squeezing Spectrum of Light Traveling through Nanofiber-Coupled Atoms *, PRL 2021 
 * Schemmer, et al., *Generalized Hydrodynamics on an Atom Chip*, PRL 2019
-  ** Featured in 
+  * Featured in [Physics Today](https://pubs.aip.org/physicstoday/article/72/5/22/926149/The-hydrodynamics-of-a-quantum-fluidThe-behavior) & [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/?p=4462)
 * Schemmer, et al., *Cooling a Bose Gas by Three-Body Losses*, PRL 2018
 
